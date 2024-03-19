@@ -81,3 +81,41 @@ a {
     font-size: x-small;
     color:#494949
 }
+
+.cajitatexto{
+  display: flex;
+}
+.texto1 {
+  float: left;
+  width: 60%; 
+  padding: 30px;
+  justify-content: flex-start;
+  font-size: large;
+  padding-top: 20px; 
+  padding-bottom: 0px; 
+}
+.texto2 {
+  float: left;
+  width: 40%; 
+  padding-top: 20px; 
+  padding-bottom: 20px; 
+  padding: 30px;
+  border-radius: 70px 70px 70px 70px;
+}
+.texto0 {
+
+  font-family: "Averia Libre", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  font-size: x-large;
+}
+.texto3{
+  
+  padding: 30px;
+  justify-content: flex-start;
+  font-size: large;
+}
+.mariposas{
+  width: auto;
+    height: auto;
+}
