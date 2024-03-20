@@ -89,4 +89,91 @@ footer {
       font-size: x-small;
       color:#494949
   }
-  
+ 
+  .user-image{
+    width: 400px;
+    height: 400px;
+    border-radius: 70px 70px 70px 70px;
+    margin-left: 100px;
+  }
+.cajitaimagen{
+  float: left;
+    width: 40%; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    padding: 30px;
+
+}
+  .usertext{
+    position: relative;
+    float: left;
+    height: 300px;
+    width: 35%; 
+    padding: 40px;
+    justify-content: flex-start;
+    font-size: large;
+     background-color: #4f0303;
+     color: #D9D9D9;
+     border-radius: 70px 70px 70px 70px;
+     margin-top: 40px;
+     line-height: 1.5;
+  }
+  .cajita{
+  display: flex;
+}
+.edit-image-btn{
+  padding: 10px;
+  padding-bottom: 50px;
+  margin-left: 290px;
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.text{
+  margin:100px;
+}
+.change-email-btn{
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.change-password-btn{
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.settings-btn{
+  background: none;
+  color:#a19f9f;
+  border: none;
+  margin-left: 780px;
+  margin-top: -75px;
+  padding-bottom: 30px;
+}
+.botonimagen{
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.logout-btn{
+  background: none;
+  color:#a19f9f;
+  border: none;
+  margin-left: 1050px;
+  margin-top: -53px;
+  margin-bottom: 80px;
+  padding-bottom: 30px;
+}
+.botonsettings{
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.botonlogout{
+  background: none;
+  color:#a19f9f;
+  border: none;
+}
+.imagenlogin{
+  color:#fff
+}
