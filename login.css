@@ -2,6 +2,7 @@ body {
   font-family: "Inder", sans-serif;
   font-weight: 400;
   font-style: normal;
+  background: linear-gradient(to bottom, #470000, #000000);
   background-repeat: no-repeat;
   background-size: cover;
   margin: 0;
@@ -80,9 +81,9 @@ body {
   border-radius: 30px;
   margin: 10px ; 
  
-  border: 2px solid #00000041; /* Cambia el color del borde */
-  background: linear-gradient(45deg,#ffffffa1, #cfcfcfa8);
-  color: rgb(0, 0, 0) !important; 
+  border: 2px solid #55535341;
+ background-color: rgb(255, 255, 255);
+ color: #55535341;
   position: relative;
   
 
@@ -98,10 +99,9 @@ body {
   border-radius: 30px;
   margin: 10px ; 
  
-  border: 2px solid #00000041; /* Cambia el color del borde */
-  background: linear-gradient(45deg,#ffffffa1, #cfcfcfa8);
-  color: rgb(0, 0, 0) !important; 
-  position: relative;
+  border: 2px solid #55535341; 
+ background-color: rgb(255, 255, 255);
+ color: #55535341;
   
 
   padding: 20px;
@@ -116,7 +116,7 @@ body {
   border: none;
   height: 35px;
   width: 70px;
-  background-color:rgb(8, 15, 22);
+  background-color:rgb(73, 17, 6);
   color: white;
   font-size: 16px;
 
@@ -125,6 +125,7 @@ body {
 
   display: flex;
   border: none;
+  background: none;
   margin-left: 125px;
  
 }
