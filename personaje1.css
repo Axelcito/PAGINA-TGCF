@@ -11,6 +11,69 @@ body {
     width: 100%;
       height: auto;
   }
+
+  .contenedor {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.info-personaje {
+    display: flex;
+    align-items: center;
+}
+
+.foto {
+    width: 200px;
+    margin-right: 20px;
+}
+.texto {
+    flex-grow: 1;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #e5e2fa;
+}
+
+header {
+  background: linear-gradient(to right, #003366, #0066cc);
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  font-size: 2em;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+section {
+  width: 30%;
+  text-align: center;
+}
+
+section img {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1.2em;
+}
+
+.mas-texto {
+    margin-top: 20px;
+}
+
 .header{
     color:aliceblue;
     font-family: "Averia Libre", system-ui;
