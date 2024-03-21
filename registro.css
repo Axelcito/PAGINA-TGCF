@@ -2,7 +2,7 @@
   body{
     height: 100vh;
     width: 100%;
-    background-color: rgb(173, 176, 182);
+    background: linear-gradient(to bottom, #470000, #000000);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,7 +29,7 @@
     
     border-radius: 10px;
     
-    background-image: url(https://img.freepik.com/foto-gratis/puesta-sol-siluetas-arboles-montanas-ia-generativa_169016-29371.jpg?t=st=1708617676~exp=1708621276~hmac=ab62b24aeff80c4f0ba05d4f11c03af423113d09a248d5d272d58f980a5b1e55&w=1060);
+    background-image: url(https://pbs.twimg.com/media/FIgwpuvVIAIebV_?format=jpg&name=large);
     background-size: cover;
     background-position: center;
  

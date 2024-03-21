@@ -112,10 +112,10 @@ body {
 
  
   margin: 25px;
-  border-radius: 10px;
+  border-radius: 30px 30px 30px 30px;
   border: none;
   height: 35px;
-  width: 70px;
+  width: 100px;
   background-color:rgb(73, 17, 6);
   color: white;
   font-size: 16px;
