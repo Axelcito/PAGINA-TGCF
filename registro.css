@@ -2,13 +2,14 @@
   body{
     height: 100vh;
     width: 100%;
-    background: linear-gradient(to bottom, #470000, #000000);
+    background-color: rgb(66, 0, 0);
     display: flex;
     align-items: center;
     justify-content: center;
     font-family: "Inder", sans-serif;
     font-weight: 400;
     font-style: normal;
+
 
 
   }
@@ -29,7 +30,7 @@
     
     border-radius: 10px;
     
-    background-image: url(https://pbs.twimg.com/media/FIgwpuvVIAIebV_?format=jpg&name=large);
+    background-image: url(https://dianxiatrads.com/wp-content/uploads/2022/09/816_Sem_Titulo_20220930080804.png);
     background-size: cover;
     background-position: center;
  
